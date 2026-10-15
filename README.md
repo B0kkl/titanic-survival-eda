@@ -104,3 +104,5 @@ The notebook loads the data with a relative path (`../data/train.csv`), so run i
 ## Data Source
 
 The dataset is the Titanic training set, originally distributed through [Kaggle's Titanic competition](https://www.kaggle.com/c/titanic).
+
+https://roadmap.sh/projects/titanic-eda-python
